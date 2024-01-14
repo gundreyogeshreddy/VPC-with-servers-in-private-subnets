@@ -39,4 +39,7 @@ And along with this Internet Gateway is created and attached to the vpc and wil 
 
 10.Now,create the load balancer and attach or register instances in private subnet as target group.
 
-11.Finally,access(DNS name) ip address from the internet and now we see our application on the UI.✅
+11.Finally,access(DNS name) ip address from the internet and now we can see our application on the UI.✅
+
+
+
