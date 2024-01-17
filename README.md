@@ -29,7 +29,7 @@ And along with this Internet Gateway is created and attached to the vpc and wil 
 
 5.After,we have to connect to the instance in the private subnet.For this we have to create the file and insert,copy and paste the .pem file and save it.Command is(vim Yogesh.pem)
 
-6.Now,give read permission access to that file.(sudo chmod 400 Yogesh.pem).
+6.Now,grant read permission to that file.(sudo chmod 400 Yogesh.pem).
 
 7.Now,let's connect to the private instance with this command(ssh -i Yogesh.pem ubuntu@private instance ip address).Now,we are successfully connected or login to the ec2 instance in private subnet.
 
