@@ -1,5 +1,8 @@
 # VPC-with-servers-in-private-subnets
 
+![image](https://github.com/user-attachments/assets/10de7ae0-00ec-4b12-afe1-52dfe8e455c2)
+
+
 
 𝙑𝙋𝘾 : Virtual Private Cloud(VPC) is a secure, isolated, scalable, private cloud hosted within a public cloud. 
 By using,VPC we can create isolate networks, control traffic and deploy resources securely within our own virtual network environment.
